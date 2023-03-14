@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "69b3b6f7b9142b2f",
   "lastOpenFiles": [
-    "scaffolds/template.md",
     "source/_posts/国际金融市场笔记（更新中）.md",
+    "scaffolds/template.md",
     "source/_posts/托福口语.md",
     "source/_posts/衣戈猜想.md",
     "db.json",
