@@ -117,7 +117,7 @@ code:
 reward:
   enable: true
   title: 随缘买咖啡～
-  wechat: /medias/reward/wechat_yyc.png
+  wechat: /medias/reward/Wechat_yyc.png
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
