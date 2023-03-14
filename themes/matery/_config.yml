@@ -242,6 +242,7 @@ gitalk:
     clientSecret: 9b03456a9143827adbe5e9eaf327ab7eec4212be
   admin: LDVYYC
   labels: 'gitalk'
+  proxy: https://nameless-math-bf03.ldvyyc.workers.dev/?https://github.com/login/oauth/access_token
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
