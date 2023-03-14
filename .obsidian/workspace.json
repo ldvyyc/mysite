@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ecebe3bdbb0a4ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea44f7fa9945cc29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69b3b6f7b9142b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30d0b1d8d79d513",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c03d1a032b1673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0946853ebc80b5e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd0f2e0eebaeb584",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f6c2f8320f508c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47a7799fe6c7cf5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a4c19a55862cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c4637aaf32b653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5aa493fa47c459c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d03a75d68a0bc3a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "117501cf22d9f6fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/国际金融市场笔记（更新中）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "69b3b6f7b9142b2f",
+  "lastOpenFiles": [
+    "scaffolds/template.md",
+    "source/_posts/国际金融市场笔记（更新中）.md",
+    "source/_posts/托福口语.md",
+    "source/_posts/衣戈猜想.md",
+    "db.json",
+    "public/img/bg.jpg",
+    "public/fonts/FZLT.ttf",
+    "public/images/21.jpg",
+    "public/img/bg3.jpg",
+    "public/images/me.jpg",
+    "public/fonts/fontawesome-webfont.svg",
+    "public/css/item.css",
+    "public/css/mic_gallery.css",
+    "public/css/mic_main.css",
+    "public/css/gallery.min.css",
+    "public/css/gallery.css",
+    "public/css/font-awesome.min.css",
+    "public/css/backcss.css",
+    "public/css/dropdownMenu.css",
+    "source/_posts/hello-hexo.md",
+    "source/_posts/托福写作提纲.md",
+    "source/about/index.md",
+    "source/gallery/index.md",
+    "source/tags/index.md",
+    "public/images/thumbs/12.jpg",
+    "public/images/thumbs/11.jpg",
+    "public/images/thumbs/10.jpg",
+    "public/images/thumbs/09.jpg",
+    "public/images/thumbs/08.jpg",
+    "source/_posts/hello-world.md",
+    "scaffolds/post.md",
+    "scaffolds/draft.md",
+    "scaffolds/page.md",
+    "source/_posts/hello hexo.md",
+    "source/_posts/ceshi.md",
+    "thinking/电影/ceshi.md",
+    "source/_posts/yyc.md"
+  ]
+}
