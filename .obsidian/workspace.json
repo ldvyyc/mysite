@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/MNIST Classification with MLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/MNIST Classification with MLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/MNIST Classification with MLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/about/index.md"
+                "file": "source/_posts/MNIST Classification with MLP.md"
               }
             }
           }
@@ -147,35 +147,40 @@
   },
   "active": "69b3b6f7b9142b2f",
   "lastOpenFiles": [
+    "db.json",
+    "public/libs/codeBlock/clipboard.min.js",
+    "public/libs/aos/aos.css",
+    "public/medias/gzh.jpg",
+    "public/medias/contact.jpg",
+    "public/libs/codeBlock/codeCopy.js",
+    "public/libs/codeBlock/codeLang.js",
+    "public/js/search.js",
+    "public/libs/codeBlock/codeBlockFuction.js",
+    "public/libs/animate/animate.min.css",
+    "public/libs/aos/aos.js",
+    "public/js/matery.js",
+    "public/libs/aplayer/APlayer.min.css",
+    "public/favicon.png",
+    "public/medias/logo.png",
+    "node_modules/hexo-pdf/screenshot/hexo-slideshare-pdf.png",
+    "node_modules/hexo-pdf/screenshot/hexo-pdf-preview.png",
+    "node_modules/hexo-pdf/README.md",
+    "node_modules/hexo-pdf/screenshot/hexo-googledrive-pdf.png",
+    "node_modules/hexo-pdf/node_modules/ejs/Readme.md",
+    "node_modules/hexo-pdf/node_modules/ejs/History.md",
     "source/_posts/国际金融市场笔记（更新中）.md",
+    "source/_posts/MNIST Classification with MLP.md",
+    "source/about/index.md",
     "scaffolds/template.md",
     "source/_posts/托福口语.md",
     "source/_posts/衣戈猜想.md",
-    "db.json",
     "public/img/bg.jpg",
-    "public/fonts/FZLT.ttf",
     "public/images/21.jpg",
     "public/img/bg3.jpg",
-    "public/images/me.jpg",
-    "public/fonts/fontawesome-webfont.svg",
-    "public/css/item.css",
-    "public/css/mic_gallery.css",
-    "public/css/mic_main.css",
-    "public/css/gallery.min.css",
-    "public/css/gallery.css",
-    "public/css/font-awesome.min.css",
-    "public/css/backcss.css",
-    "public/css/dropdownMenu.css",
     "source/_posts/hello-hexo.md",
     "source/_posts/托福写作提纲.md",
-    "source/about/index.md",
     "source/gallery/index.md",
     "source/tags/index.md",
-    "public/images/thumbs/12.jpg",
-    "public/images/thumbs/11.jpg",
-    "public/images/thumbs/10.jpg",
-    "public/images/thumbs/09.jpg",
-    "public/images/thumbs/08.jpg",
     "source/_posts/hello-world.md",
     "scaffolds/post.md",
     "scaffolds/draft.md",
