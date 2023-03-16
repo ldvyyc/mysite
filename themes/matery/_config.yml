@@ -282,9 +282,7 @@ valine:
   enable: true
   appId: hT2FleeXPxQc2jGKgU452fdc-gzGzoHsz
   appKey: Ne3GPqNG4eqIbu2oU13apSYY
-
-  notify: false
-  verify: false
+  serverURLs: https://ht2fleex.lc-cn-n1-shared.com
   visitor: false
   avatar: 'retro' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
