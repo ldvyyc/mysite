@@ -256,12 +256,12 @@ gitalk:
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
 gitment:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner: ldvyyc
+  repo: ldvyyc.github.io
   oauth:
-    clientId:
-    clientSecret:
+    clientId: f79258be801c6e940816
+    clientSecret: f619310b45a5e537c83ed7ee21d8e1c581ec4a29
 
 # disqus config, default disabled
 # Disqus评论模块的配置，默认为不激活
