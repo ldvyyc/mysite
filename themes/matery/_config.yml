@@ -233,15 +233,25 @@ postCalendar: true
 
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
+# gitalk:
+#   enable: true
+#   owner: ldvyyc
+#   admin: ldvyyc
+#   repo: ldvyyc.github.io
+#   ClientID: f79258be801c6e940816
+#   ClientSecret: f619310b45a5e537c83ed7ee21d8e1c581ec4a29
+#   labels: 'gitalk'
+#   distractionFreeMode: true
 gitalk:
   enable: true
   owner: ldvyyc
-  admin: ldvyyc
   repo: ldvyyc.github.io
-  ClientID: f79258be801c6e940816
-  ClientSecret: f619310b45a5e537c83ed7ee21d8e1c581ec4a29
+  oauth:
+    clientId: f79258be801c6e940816
+    clientSecret: 9b03456a9143827adbe5e9eaf327ab7eec4212be
+  admin: LDVYYC
   labels: 'gitalk'
-  distractionFreeMode: true
+  proxy: https://nameless-math-bf03.ldvyyc.workers.dev/?https://github.com/login/oauth/access_token
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
