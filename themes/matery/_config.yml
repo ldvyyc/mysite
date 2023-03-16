@@ -251,7 +251,7 @@ gitalk:
     clientSecret: f619310b45a5e537c83ed7ee21d8e1c581ec4a29
   admin: ldvyyc
   labels: 'gitalk'
-  proxy: https://nameless-math-bf03.ldvyyc.workers.dev/?https://github.com/login/oauth/access_token
+  proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
   # proxy: https://nameless-math-bf03.ldvyyc.workers.dev/?https://github.com/login/oauth/access_token
 
 # the Gitment config，default disabled
