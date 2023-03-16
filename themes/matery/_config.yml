@@ -243,7 +243,7 @@ postCalendar: true
 #   labels: 'gitalk'
 #   distractionFreeMode: true
 gitalk:
-  enable: true
+  enable: false
   owner: ldvyyc
   repo: ldvyyc.github.io
   oauth:
@@ -257,7 +257,7 @@ gitalk:
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
 gitment:
-  enable: true
+  enable: false
   owner: ldvyyc
   repo: ldvyyc.github.io
   oauth:
@@ -273,14 +273,14 @@ disqus:
 # Livere comment configuration, the default is not activated
 # Livere 来必力评论模块的配置，默认为不激活
 livere:
-  enable: false
-  uid:
+  enable: true
+  uid: MTAyMC81ODE5NC8zNDY1Nw
 
 # The configuration of the Valine comment module is not activated by default.
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: true
+  enable: false
   appId: hT2FleeXPxQc2jGKgU452fdc-gzGzoHsz
   appKey: Ne3GPqNG4eqIbu2oU13apSYY
   serverURLs: https://ht2fleex.lc-cn-n1-shared.com
