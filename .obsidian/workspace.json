@@ -11,8 +11,12 @@
             "id": "af4089a939d9332a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/公司金融笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/公司金融笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/公司金融笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/公司金融笔记.md"
+              }
             }
           }
         ]
@@ -139,8 +147,12 @@
   },
   "active": "af4089a939d9332a",
   "lastOpenFiles": [
-    "source/_posts/博弈论与机制设计笔记（更新中）.md",
+    "public/2023/03/19/gong-si-jin-rong-bi-ji/index.html",
+    "public/2023/03/19/gong-si-jin-rong-bi-ji",
+    "public/2023/03/19",
     "source/_posts/国际金融市场笔记（更新中）.md",
+    "source/_posts/公司金融笔记.md",
+    "source/_posts/博弈论与机制设计笔记（更新中）.md",
     "source/_posts/MNIST Classification with MLP.md",
     "db.json",
     "public/pdf/MNISTClassificationWithMLP_于雨琛_2020011846.pdf",
@@ -152,8 +164,6 @@
     "public/css/matery.css",
     "public/js/matery.js",
     "public/css/gitment.css",
-    "public/css/my-gitalk.css",
-    "public/libs/codeBlock/codeShrink.js",
     "public/favicon.png",
     "public/medias/logo.png",
     "public/medias/banner/bg.jpg",
