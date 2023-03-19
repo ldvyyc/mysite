@@ -8,6 +8,7 @@ toc: true
 mathjax: true
 cover: false
 top: false
+summary: Some Posts
 date: <% tp.file.creation_date("YYYY-MM-DD, dddd") %>
 time: <% tp.file.creation_date("HH:mm") %>
 tags: 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51e1cc2fe51dbb28",
+        "id": "f44f5770300fa439",
         "type": "tabs",
         "children": [
           {
-            "id": "af4089a939d9332a",
+            "id": "a154516fe81e68fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/公司金融笔记.md",
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/公司金融笔记.md",
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/公司金融笔记.md",
+                "file": "source/_posts/国际金融市场笔记（更新中）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/公司金融笔记.md"
+                "file": "source/_posts/国际金融市场笔记（更新中）.md"
               }
             }
           }
@@ -145,13 +145,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af4089a939d9332a",
+  "active": "a154516fe81e68fe",
   "lastOpenFiles": [
+    "source/_posts/公司金融笔记.md",
+    "source/_posts/国际金融市场笔记（更新中）.md",
+    "scaffolds/template.md",
     "public/2023/03/19/gong-si-jin-rong-bi-ji/index.html",
     "public/2023/03/19/gong-si-jin-rong-bi-ji",
     "public/2023/03/19",
-    "source/_posts/国际金融市场笔记（更新中）.md",
-    "source/_posts/公司金融笔记.md",
     "source/_posts/博弈论与机制设计笔记（更新中）.md",
     "source/_posts/MNIST Classification with MLP.md",
     "db.json",
@@ -163,7 +164,6 @@
     "public/libs/aos/aos.css",
     "public/css/matery.css",
     "public/js/matery.js",
-    "public/css/gitment.css",
     "public/favicon.png",
     "public/medias/logo.png",
     "public/medias/banner/bg.jpg",
@@ -174,7 +174,6 @@
     "node_modules/hexo-pdf/node_modules/ejs/Readme.md",
     "node_modules/hexo-pdf/node_modules/ejs/History.md",
     "source/about/index.md",
-    "scaffolds/template.md",
     "source/_posts/托福口语.md",
     "source/_posts/衣戈猜想.md",
     "public/img/bg.jpg",
