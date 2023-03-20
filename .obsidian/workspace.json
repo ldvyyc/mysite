@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,21 +148,21 @@
   "active": "a154516fe81e68fe",
   "lastOpenFiles": [
     "db.json",
-    "public/medias/banner/bg.jpg",
-    "public/libs/dplayer/DPlayer.min.js",
-    "public/libs/aplayer/APlayer.min.js",
     "public/libs/aos/aos.css",
+    "public/libs/aplayer/APlayer.min.js",
+    "public/libs/dplayer/DPlayer.min.js",
     "public/libs/codeBlock/clipboard.min.js",
     "public/libs/codeBlock/codeCopy.js",
-    "public/libs/codeBlock/codeShrink.js",
-    "public/libs/codeBlock/codeLang.js",
-    "public/libs/cryptojs/crypto-js.min.js",
     "public/libs/dplayer/DPlayer.min.css",
+    "public/libs/cryptojs/crypto-js.min.js",
     "public/libs/animate/animate.min.css",
+    "public/libs/codeBlock/codeBlockFuction.js",
+    "public/libs/aplayer/APlayer.min.css",
     "public/medias/gzh.jpg",
     "public/medias/contact.jpg",
     "public/favicon.png",
     "public/medias/logo.png",
+    "public/medias/banner/bg.jpg",
     "public/medias/featureimages/4.jpg",
     "public/medias/featureimages/9.jpg",
     "public/medias/featureimages/15.jpg",
