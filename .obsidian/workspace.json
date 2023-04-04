@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/博弈论与机制设计笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/博弈论与机制设计笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/博弈论与机制设计笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/博弈论与机制设计笔记（更新中）.md"
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a154516fe81e68fe",
   "lastOpenFiles": [
+    "source/_posts/公司金融笔记.md",
+    "source/_posts/博弈论与机制设计笔记（更新中）.md",
     "db.json",
     "public/medias/banner/bg.jpg",
     "public/medias/featureimages/4.jpg",
@@ -168,12 +170,9 @@
     "public/libs/dplayer/DPlayer.min.css",
     "public/libs/others/text.js",
     "public/libs/others/snow.js",
-    "public/libs/aos/aos.css",
     "source/_posts/国际金融市场笔记（更新中）.md",
     "source/_posts/固定收益证券分析笔记（更新中）.md",
-    "source/_posts/公司金融笔记.md",
     "source/_posts/投资学笔记.md",
-    "source/_posts/博弈论与机制设计笔记（更新中）.md",
     "scaffolds/template.md",
     "source/_posts/MNIST Classification with MLP.md",
     "node_modules/hexo-pdf/README.md",
