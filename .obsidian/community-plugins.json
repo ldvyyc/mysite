@@ -5,5 +5,6 @@
   "file-explorer-note-count",
   "obsidian-image-auto-upload-plugin",
   "obsidian-outliner",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-export-to-tex"
 ]
