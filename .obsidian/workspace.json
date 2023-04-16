@@ -148,8 +148,8 @@
   },
   "active": "a154516fe81e68fe",
   "lastOpenFiles": [
-    "source/_posts/概率论与数理统计笔记.md",
     "db.json",
+    "source/_posts/概率论与数理统计笔记.md",
     "public/favicon.png",
     "public/index.html",
     "public/pdf/MNISTClassificationWithMLP_于雨琛_2020011846.pdf",
@@ -192,7 +192,6 @@
     "source/_posts/hello-world.md",
     "scaffolds/post.md",
     "scaffolds/draft.md",
-    "scaffolds/page.md",
-    "source/_posts/hello hexo.md"
+    "scaffolds/page.md"
   ]
 }
