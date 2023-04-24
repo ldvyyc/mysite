@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md",
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/国际金融市场笔记（更新中）.md"
+                "file": "source/_posts/固定收益证券分析笔记（更新中）.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "a154516fe81e68fe",
   "lastOpenFiles": [
+    "source/_posts/国际金融市场笔记（更新中）.md",
     "db.json",
     "public/medias/banner/bg.jpg",
     "public/libs/cryptojs/crypto-js.min.js",
@@ -158,7 +159,6 @@
     "public/libs/codeBlock/codeCopy.js",
     "public/libs/jqcloud/jqcloud.css",
     "public/libs/aos/aos.js",
-    "public/libs/aplayer/APlayer.min.css",
     "public/medias/gzh.jpg",
     "public/medias/contact.jpg",
     "public/favicon.png",
@@ -176,7 +176,6 @@
     "source/_posts/固定收益证券分析笔记（更新中）.md",
     "source/_posts/hello-hexo.md",
     "source/_posts/托福口语.md",
-    "source/_posts/国际金融市场笔记（更新中）.md",
     "source/_posts/博弈论与机制设计笔记（更新中）.md",
     "scaffolds/template.md",
     "source/_posts/MNIST Classification with MLP.md",
