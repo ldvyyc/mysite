@@ -1,4 +1,4 @@
-
+cheatsheet
 ---
 title: MNIST Classification with MLP
 author: Frank Yu
