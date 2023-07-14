@@ -1,4 +1,4 @@
-
+python 
 ---
 title: Latex参考文献与跳转
 author: Frank Yu
